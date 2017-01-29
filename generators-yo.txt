@@ -1,0 +1,14 @@
+Generating fullstack project with yeoman-generator:
+	npm i -g yo gulp-cli generator-angular-fullstack
+
+Second method to generate angular project with yeomann generator:
+	npm i -g grunt-cli bower yo generator-karma generator-angular
+	RESULT : yo angular
+
+Third method with installation of gulp and generator-gulp-angular:
+	npm i -g yo gulp bower
+	npm i -g generator-gulp-angular
+	RESULT : yo gulp-angular
+
+Installing Gulp :
+	npm i -g gulp //(gulp-sass / gulp-uglify / browser-sync / gulp-useref / gulp-if / gulp-minify-css / gulp-imagemin / gulp-cache / del / run-sequence / gulp-changed(compile just changed) / gulp-csso / gulp-jasmine(test) / gulp-rsync(deploy))
